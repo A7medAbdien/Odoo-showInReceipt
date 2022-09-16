@@ -1,2 +1,2 @@
 # Odoo-showInReceipt
-control the appearance in receipt
+Control the appearance in POS (Point of sale) receipt
